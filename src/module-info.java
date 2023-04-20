@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author excellarate
+ *
+ */
+module JavaTraning {
+}
